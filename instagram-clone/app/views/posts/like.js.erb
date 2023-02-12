@@ -1,0 +1,7 @@
+<% if @success == true %>
+  $(".like-<%= @post_id %>").removeClass("fa-regular").addClass("fa");
+<% else %>
+  $(".like-<%= @post_id %>").removeClass("fa").addClass("fa-regular");
+<% end %>
+
+$("#post-<%= @post_id %>-likes").text("<%= @post_likes %> likes");

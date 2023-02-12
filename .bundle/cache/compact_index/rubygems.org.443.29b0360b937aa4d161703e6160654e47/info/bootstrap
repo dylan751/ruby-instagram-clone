@@ -1,0 +1,44 @@
+---
+4.0.0.alpha1 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:4319b027c221dfd81a0eb5008391dd93e1e62bdc3987b3be2b5cdcec494bc9c0,rubygems:> 1.3.1
+4.0.0.alpha2 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:d6871de6ac53fb6856b7855923aa7aad4437be93befbdf58f4bf40b4a3f5226e,rubygems:> 1.3.1
+4.0.0.alpha3 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:1e6f33a2c6f117a51c3f3c60c9779061152b5c9ae43ed8097f3625fad7b795d7,rubygems:> 1.3.1
+4.0.0.alpha3.1 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:695ce1655f4a2d9bf6b362fb6fb9ef3acf95a13d46d24e6c7edc7b174f1037c4,rubygems:> 1.3.1
+4.0.0.alpha4 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:72cff5216d791374f5a0f77ac4dbeffcefc886f72cabeef80de88f2e6e2def1c,rubygems:> 1.3.1
+4.0.0.alpha5 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:86d449d6b684c5f7eced8cacec7c60deab89058751397a01b95483253acf93aa,rubygems:> 1.3.1
+4.0.0.alpha6 autoprefixer-rails:>= 6.0.3,sass:>= 3.4.19|checksum:65720f3d19a5a82d9f3923bf0350359fe2789d46e636f6c1c6fdbd9405bc10d1,rubygems:> 1.3.1
+4.0.0.beta autoprefixer-rails:>= 6.0.3,popper_js:~> 1.11.1,sass:>= 3.4.19|checksum:393a7c815fb78afe09af6342e7f1cd7a88f00ebb2b08810ff8d3d28be5448609,rubygems:> 1.3.1
+4.0.0.beta2 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.3,sass:>= 3.5.2|checksum:3c9adbf4c8d3c211f3dc4c8969f69034fce79ff5831a464479a3a8351b8d6e2d,rubygems:> 1.3.1
+4.0.0.beta2.1 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.3,sass:>= 3.5.2|checksum:cb9c501a2d67c8a29dd4b2364b6937d6a67338bc3bb03b673e7765817df21fc2,rubygems:> 1.3.1
+4.0.0.beta3 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.3,sass:>= 3.5.2|checksum:6dd5c5fb8b2c14a1607011fe1ec62437c6e0ede5b97a630b8eb2fb8508be33c3,rubygems:> 1.3.1
+4.0.0 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.9,sass:>= 3.5.2|checksum:1114378bd4da88cbca1768509becf147cd114df82b3774a6177f12314196daef
+4.1.0 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.9,sass:>= 3.5.2|checksum:c6b5388b8ecae4436add16f8bdf2dce852e3148c509bb2a0e2684c5cb29f612c
+4.1.1 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.9,sass:>= 3.5.2|checksum:05c92130755d65264c3b1eb53fa2bf06352d2feaeb53bffac7906bea8b28724f
+4.1.2 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.9,sass:>= 3.5.2|checksum:b1cf6a787dc5a5a30576d3eee451260a6c5c554650ad2cc4af9b697c32e5dbe3
+4.1.3 autoprefixer-rails:>= 6.0.3,popper_js:< 2&>= 1.12.9,sass:>= 3.5.2|checksum:96b824829de30a9d2248323c6583bf1b9b273541fa8f564f8bcefddc18f21f6e
+4.2.1 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:1580b63056a050fb80cd82b301a9de903297d3d443d2384ed05c8a74e630d565,ruby:>= 2.3.3
+4.3.0 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:1ca4da115ed145e268ef11ced9cb21410666fc157f707f9e555e02147f0fcc7d,ruby:>= 2.3.3
+4.3.1 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:f0ec38008cdc2c8e1d1be06cc273560e2554e93d7040b8757499fdf87f4c47c1,ruby:>= 2.3.3
+4.4.1 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:0cbefd846cba39f80e4e47641959d730a2e9f4a0d9397e9480dfe3fe30b6acd8,ruby:>= 2.3.3
+4.5.0 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:81cf5207dbe8f29f86745181307fe93801ac87c219896ef2dff22ada0939d64a,ruby:>= 2.3.3
+4.5.2 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:54609e84f532f0233d6937f97637b917a7c84300eaa672ff4d0d90296ed6bc24,ruby:>= 2.3.3
+5.0.0.alpha1 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:95e1bc9e96efddcb2689b410826c9d819d93a50d518bc257481901e689976569,ruby:>= 2.3.3,rubygems:> 1.3.1
+4.5.3 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:fa12f3620f223220c1d813dea4ec223315a8d80dfb274fe9c5b2a0e308b451c7,ruby:>= 2.3.3
+5.0.0.alpha2 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:21e74c71226aedac057ad591f9fa8129371b8edf15287bea90d1b9e74f23340a,ruby:>= 2.3.3,rubygems:> 1.3.1
+5.0.0.alpha3 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:2bd3b527cbcc15856f0bd0f9e4439767943b88daea1c4be455647c91763f0d26,ruby:>= 2.3.3,rubygems:> 1.3.1
+5.0.0.beta1 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:f18ad87faade2814c59b2ba92f5637b64d0fc476029d5f8d2690db0b47a9993b,ruby:>= 2.3.3,rubygems:> 1.3.1
+4.6.0 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:335481a46321167d595d7328c039d405016b78f4267e3487a8d2d87426de7db9,ruby:>= 2.3.3
+5.0.0.beta2 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.8.6,sassc-rails:>= 2.0.0|checksum:37b8f5b6750c094a9f40503397d4785070fa8af974149c2bacba3f87a30ec147,ruby:>= 2.3.3,rubygems:> 1.3.1
+5.0.0.beta3 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.1,sassc-rails:>= 2.0.0|checksum:666412b4f8458b7a28cfe01ccdd684c9083fb54c9727ba3f64150ce2c49bb38a,ruby:>= 2.3.3,rubygems:> 1.3.1
+5.0.0 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.2,sassc-rails:>= 2.0.0|checksum:503290ef4aed1f85dcc90f438226afd47901f37116e1f9b8d23fbbed84945a74,ruby:>= 2.3.3
+5.0.1 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.2,sassc-rails:>= 2.0.0|checksum:b86a7d588d83cb1ef87f3a57404abd249ac9d181c7f74646a005f75b75152a72,ruby:>= 2.3.3
+5.0.2 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.2,sassc-rails:>= 2.0.0|checksum:021f7afdc0c0dc8b3f9a1717909c7807f634ac4a8aba39cc835d44101642fe45,ruby:>= 2.3.3
+5.1.0 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.3,sassc-rails:>= 2.0.0|checksum:e0f90ec3603a9d90820658b04f20fafa1d00c0190aa6144041e0d59bdccaf363,ruby:>= 2.3.3
+5.1.1 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.3,sassc-rails:>= 2.0.0|checksum:3918ba9010143da4bb7dc98b485da8c62ad5aabc0e26530a2a7ba32560abe421,ruby:>= 2.3.3
+5.1.2 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.3,sassc-rails:>= 2.0.0|checksum:4055cc0c222a49ef89542f7ab1378d4da83e0b22d09bd2ddf597cccbda65259a,ruby:>= 2.3.3
+5.1.3 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.9.3,sassc-rails:>= 2.0.0|checksum:b5a781debd92cd0368d25483b50dbcecb7dd1982a9f9ab93a655c1a12051a5f2,ruby:>= 2.3.3
+4.6.1 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.14.3,sassc-rails:>= 2.0.0|checksum:b40b76904684f3b29e8a006f98b89288f43386f5258807ff0e582ae889c4931a,ruby:>= 2.3.3
+5.2.0 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.11.5,sassc-rails:>= 2.0.0|checksum:6f33ec614efcf31e59396faa24426d32c280caf9c4824792cdb882a5ebb788a9,ruby:>= 2.3.3
+4.6.2 autoprefixer-rails:>= 9.1.0,popper_js:< 2&>= 1.16.1,sassc-rails:>= 2.0.0|checksum:9cf03810728007eff8cfb8210e9ab92ecf2b10fe250e419d9e9488e4796bc342,ruby:>= 2.3.3
+5.2.1 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.11.6,sassc-rails:>= 2.0.0|checksum:255496a84c4c1e361bada61c5daeffb728fd27011fcd7097f49a0d928c5adb55,ruby:>= 2.3.3
+5.2.2 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.11.6,sassc-rails:>= 2.0.0|checksum:0232f92da999be429f3489c71e0880ec9f533dfb2edc36fbd40abd74de6b8519,ruby:>= 2.3.3
+5.2.3 autoprefixer-rails:>= 9.1.0,popper_js:< 3&>= 2.11.6,sassc-rails:>= 2.0.0|checksum:2037774d356123181a4650a05cf2056bf3d035d3c4240ebfb381eaa9a30f17f0,ruby:>= 2.3.3

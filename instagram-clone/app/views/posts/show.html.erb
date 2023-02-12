@@ -1,0 +1,41 @@
+<div class="container post-details">
+  <div class="row">
+    <div class="col-8">
+      <div class="insta-post">
+        <%= image_tag @post.image.url, class: "img img-fluid" if @post.image.present? %>
+      </div>
+    </div>
+    <div class="col-4">
+      <div class="post-meta">
+        <%= link_to image_tag(@post.account.image.url, width: "50px", height: "50px", class: "img-circle"), profile_path(@post.account.username) %>
+        <%= link_to @post.account.username, profile_path(@post.account.username), class: "text-dark" %>
+      </div>
+      
+      <div class="post-details">
+        <div class="comments-feed">
+          <%= simple_format @post.description %>
+          <%= render "posts/comments", post: @post, comments: @comments %>
+        </div>
+        
+        <div class="post-actions">
+          <i class="<%= post_liked_by_user?(@post.id) ? "fa" : "fa-regular" %> fa-heart like-<%= @post.id %> fa-2x post-like" data-id="<%= @post.id %>"></i>
+          <i class="fa-regular fa-comment fa-2x post-comment" id="post-comment"></i>
+        </div>
+        <p><strong id="post-<%= @post.id %>-likes"><%= @post.total_likes_count %> likes</strong></p>
+        <p class="text-muted"><%= time_ago_in_words @post.created_at %> ago</p>
+      </div>
+      <div class="comment-box">
+        <%= form_for @comment do |f| %>
+          <%= f.hidden_field :post_id, value: @post.id %>
+          <%= f.hidden_field :return_to, value: "post" %>
+          <div class="input-group">
+            <%= f.text_field :comment, placeholder: "Add comment here...", class: "form-control post-comment" %>
+            <div class="input-group-append">
+              <%= f.submit "Post", class: "btn btn-success float-end" %>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>
