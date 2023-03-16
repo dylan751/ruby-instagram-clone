@@ -34,6 +34,7 @@ class AccountsController < ApplicationController
     end
     
     private
+
     def set_account
         @account = Account.find_by_username(params[:username])
     end
